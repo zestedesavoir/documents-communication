@@ -58,4 +58,4 @@ Document                  | Auteur  | Source | Licence*
 --------------------------|---------|--------|---------
 [Roman-photo](divers/roman-photo_clem/) | [Roipoussiere](https://zestedesavoir.com/membres/voir/roipoussiere/) et [Klafyvel](https://zestedesavoir.com/membres/voir/klafyvel/) pour [Clem qui programme](https://zestedesavoir.com/forums/sujet/7158/appel-a-contribution-pour-un-roman-photo-de-clem/?page=1#p128598) | [ici](https://zestedesavoir.com/forums/sujet/7158/appel-a-contribution-pour-un-roman-photo-de-clem/)|
 
-__*__ *Si la licence n'est pas précisée, les documents sont libres de droit.*
+__*__ Si la licence n'est pas précisée, c'est *Tous droits réservés.*

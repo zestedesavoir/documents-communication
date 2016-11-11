@@ -36,7 +36,9 @@ Vous pouvez contribuer à ce dépôt :
     - [presentation page asso](textes/presentation_page_asso.md) : [source](https://zestedesavoir.com/pages/association/)
     - [presentation detaillée](textes/presentation_detaillee.md) : Roipoussiere, [source](https://zestedesavoir.com/forums/sujet/6891/les-flyers/?page=3#p125805)
 - Divers
-    - [Présentation](divers/presentation.pdf) : Roipoussiere, [source](https://zestedesavoir.com/forums/sujet/6888/une-presentation-de-zds-au-fablab-artilect/)
+    - [Roman-photo](divers/roman-photo_clem/) : [source](https://zestedesavoir.com/forums/sujet/6888/une-presentation-de-zds-au-fablab-artilect/)
+        - clem programme : Klafyvel,  [source](https://zestedesavoir.com/forums/sujet/7158/appel-a-contribution-pour-un-roman-photo-de-clem/?page=1#p128598)
+        - autres photos : Roipoussiere,  [source](https://zestedesavoir.com/forums/sujet/7158/appel-a-contribution-pour-un-roman-photo-de-clem/?page=1)
 
 # Licence
 

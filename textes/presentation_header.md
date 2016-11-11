@@ -2,9 +2,9 @@
 
 Zeste de Savoir : un site de **partage de connaissances** où vous trouverez, **gratuitement** et **sans publicité** :
 
-    des [tutoriels de tous niveaux](https://zestedesavoir.com/tutoriels/) ;
-    des [articles](https://zestedesavoir.com/articles/) ;
-    et des [forums d'entraide](https://zestedesavoir.com/forums/).
+- des [tutoriels de tous niveaux](https://zestedesavoir.com/tutoriels/) ;
+- des [articles](https://zestedesavoir.com/articles/) ;
+- et des [forums d'entraide](https://zestedesavoir.com/forums/).
 
 Tout est animé par la communauté, tous les sujets sont abordés !
 

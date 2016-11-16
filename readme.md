@@ -34,6 +34,15 @@ Document                         | Auteur | Source | Licence* | Utilisé sur
 [Clem halloween #1](illustrations/clem_evenements/clem_halloween_1.png) | [Olybri](https://zestedesavoir.com/membres/voir/Olybri/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=1#p126110)| | La banière du site pendant halloween 2016
 [Clem halloween #2](illustrations/clem_evenements/clem_halloween_2.png) | [Clems](https://zestedesavoir.com/membres/voir/Clems/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=2#p126423)| |
 [Clem halloween #3](illustrations/clem_evenements/clem_halloween_3.png) | [Jiyong](https://zestedesavoir.com/membres/voir/Jiyong/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=2#p127915)| |
+[FougereBle](illustrations/clem_evenements/clem_halloween_autres/FougereBle.png) | [FougereBle](https://zestedesavoir.com/membres/voir/FougereBle/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=1#p125868)| |
+[Keepmoney](illustrations/clem_evenements/clem_halloween_autres/Keepmoney.png) | [Keepmoney](https://zestedesavoir.com/membres/voir/Keepmoney/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=2#p126186)| |
+[Manyrio](illustrations/clem_evenements/clem_halloween_autres/Manyrio.png) | [Manyrio](https://zestedesavoir.com/membres/voir/Manyrio/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=1#p126090)| |
+[Olybri](illustrations/clem_evenements/clem_halloween_autres/Olybri.png) | [Olybri](https://zestedesavoir.com/membres/voir/Olybri/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=1#p126102)| |
+[SamplesX](illustrations/clem_evenements/clem_halloween_autres/SamplesX.png) | [SamplesX](https://zestedesavoir.com/membres/voir/SamplesX/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=2#p126181)| |
+[TheLumMys](illustrations/clem_evenements/clem_halloween_autres/TheLumMys.png) | [TheLumMys](https://zestedesavoir.com/membres/voir/TheLumMys/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=2#p126150)| |
+[Zeste2Range](illustrations/clem_evenements/clem_halloween_autres/Zeste2Range.png) | [Zeste2Range](https://zestedesavoir.com/membres/voir/Zeste2Range/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=1#p126096)| |
+[hichbra](illustrations/clem_evenements/clem_halloween_autres/hichbra.png) | [hichbra](https://zestedesavoir.com/membres/voir/hichbra/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=1#p125906)| |
+[pierre_24](illustrations/clem_evenements/clem_halloween_autres/pierre_24.png) | [pierre_24](https://zestedesavoir.com/membres/voir/pierre_24/) | [ici](https://zestedesavoir.com/forums/sujet/7050/un-costume-pour-clem/?page=2#p126208)| |
 [Affiche bonne année 2015](illustrations/affiches_web/bonne_annee_2015.jpg) | [Piwit](https://zestedesavoir.com/membres/voir/Piwit/) | [ici](https://zestedesavoir.com/articles/1002/zeste-de-savoir-vous-souhaite-une-bonne-annee-2016/) | |
 [Affiche ZEP 12](illustrations/affiches_web/zep12.png) | [Blackline](https://zestedesavoir.com/membres/voir/Blackline/) | [ici](https://zestedesavoir.com/forums/sujet/2689/un-zeste-de-mascotte/?page=4#p73513) | |
 
@@ -58,4 +67,4 @@ Document                  | Auteur  | Source | Licence*
 --------------------------|---------|--------|---------
 [Roman-photo](divers/roman-photo_clem/) | [Roipoussiere](https://zestedesavoir.com/membres/voir/roipoussiere/) et [Klafyvel](https://zestedesavoir.com/membres/voir/klafyvel/) pour [Clem qui programme](https://zestedesavoir.com/forums/sujet/7158/appel-a-contribution-pour-un-roman-photo-de-clem/?page=1#p128598) | [ici](https://zestedesavoir.com/forums/sujet/7158/appel-a-contribution-pour-un-roman-photo-de-clem/)|
 
-__*__ *Si la licence n'est pas précisée, les documents sont libres de droit.*
+__*__ Si la licence n'est pas précisée, c'est *Tous droits réservés.*

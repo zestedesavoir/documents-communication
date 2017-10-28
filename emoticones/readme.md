@@ -24,5 +24,5 @@ Syntaxe zMd  | Classique                                                        
 `:soleil:`   | ![cool classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/soleil.png)     | ![cool low res](low_res/cool_LD.png)         | ![high res cool](high_res/cool_HD.png)
 `:waw:`      | ![waw classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/waw.png)         | ![waw low res](low_res/waw_LD.png)           | ![high res waw](high_res/waw_HD.png)
 `:zorro:`    | ![zorro classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/zorro.png)     | ![zorro low res](low_res/zorro_LD.png)       | ![high res zorro](high_res/zorro_HD.png)
-`^(;,;)^`    | ![cthulhu classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/cthulhu.png) | ∅                                            | ∅
+`^(;,;)^`    | ![cthulhu classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/cthulhu.png) | ![zorro low res](low_res/cthulhu_LD.png)       | ![high res zorro](high_res/cthulhu_HD.png)
 ∅            | ∅                                                                                                           | ![totoclem low res](low_res/totoclem_LD.png) | ![high res totoclem](high_res/totoclem_HD.png)

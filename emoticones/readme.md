@@ -16,7 +16,7 @@ Syntaxe zMd  | Classique                                                        
 `:ange:`     | ![angel classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/ange.png)      | ![angel low res](low_res/angel_LD.png)       | ![high res angel](high_res/angel_HD.png)
 `:diable:`   | ![evil classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/diable.png)     | ![evil low res](low_res/evil_LD.png)         | ![high res evil](high_res/evil_HD.png)
 `:magicien:` | ![wizard classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/magicien.png) | ![wizard low res](low_res/wizard_LD.png)     | ![high res wizard](high_res/wizard_HD.png)
-`:ninja:`    | ![ninja classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/ninja.png)     | ![ninja low res](low_res/ninja_LD.gif)       | ![high res ninja](high_res/ninja_HD.gif)
+`:ninja:`    | ![ninja classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/ninja.gif)     | ![ninja low res](low_res/ninja_LD.gif)       | ![high res ninja](high_res/ninja_HD.gif)
 `>_<`        | ![mad classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/pinch.png)       | ![mad low res](low_res/mad_LD.png)           | ![high res mad](high_res/mad_HD.png)
 `:pirate:`   | ![pirate classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/pirate.png)   | ![pirate low res](low_res/pirate_LD.png)     | ![high res pirate](high_res/pirate_HD.png)
 `:'(`        | ![cry classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/pleure.png)      | ![cry low res](low_res/cry_LD.png)           | ![high res cry](high_res/cry_HD.png)
@@ -24,5 +24,5 @@ Syntaxe zMd  | Classique                                                        
 `:soleil:`   | ![cool classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/soleil.png)     | ![cool low res](low_res/cool_LD.png)         | ![high res cool](high_res/cool_HD.png)
 `:waw:`      | ![waw classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/waw.png)         | ![waw low res](low_res/waw_LD.png)           | ![high res waw](high_res/waw_HD.png)
 `:zorro:`    | ![zorro classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/zorro.png)     | ![zorro low res](low_res/zorro_LD.png)       | ![high res zorro](high_res/zorro_HD.png)
-`^(;,;)^`    | ![cthulhu classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/cthulhu.png) | ∅                                            | ∅
+`^(;,;)^`    | ![cthulhu classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/cthulhu.png) | ![zorro low res](low_res/cthulhu_LD.png)       | ![high res zorro](high_res/cthulhu_HD.png)
 ∅            | ∅                                                                                                           | ![totoclem low res](low_res/totoclem_LD.png) | ![high res totoclem](high_res/totoclem_HD.png)

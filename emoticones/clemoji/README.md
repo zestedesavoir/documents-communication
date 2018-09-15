@@ -7,7 +7,7 @@
 
 ## Origine ![Twemoji](https://github.com/twitter/twemoji) :
 
-Le script de conversion des Twemoji en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/)*. (*![1f47f.svg](1f47f.svg) et ![1f608.svg](1f608.svg) ont été finalisé à la main).
+Le script de conversion des Twemoji en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/)\*. (*![1f47f.svg](1f47f.svg) et ![1f608.svg](1f608.svg) ont été finalisé à la main).
 
 | Name  | Syntaxe  | Clemoji                 | 
 | ----- | ------- | ----------------------- |

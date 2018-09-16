@@ -1,0 +1,1 @@
+Les .SVG ont été téléchargé à partir de : https://github.com/twitter/twemoji

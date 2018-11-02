@@ -255,8 +255,8 @@ $(window).on("load", function() {
 				}
 			}
 
-			$clemoji.prepend("<!-- Clemoji 3.0: " + files[num].split(".")[0] + ".svg - licence GPLv3 or later - Créé par A-312 - https://zestedesavoir.com/ -->"
-				+ "<!-- Les Clemoji ont été créé à partir des Twemoji (CC BY 4.0 - https://github.com/twitter/twemoji) -->");
+			$clemoji.prepend("<!-- Clemoji 3.0: " + files[num].split(".")[0] + ".svg - licence GPLv3 or later - Author A-312 - https://zestedesavoir.com/ -->"
+				+ "<!-- Clemoji is based on Twemoji (CC BY 4.0 - https://github.com/twitter/twemoji) -->");
 
 			$clemoji.find("svg").attr("id", "clemoji3_" + files[num].split(".")[0]);
 			$clemoji.find("svg").attr("style", "enable-background: new " + $clemoji.find("svg").attr("viewBox"));

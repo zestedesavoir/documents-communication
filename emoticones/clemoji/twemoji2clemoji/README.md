@@ -1,6 +1,6 @@
 Ouvrir la page `www/index.html` dans Firefox permet la conversion des Twemoji en Clemoji.
 
-![](https://i.imgur.com/EPsRbfN.png)
+![last version Clemoji 3.0](https://i.imgur.com/oFAfkiC.png)
 
 Pour sauvegarder les clemojis, copiez le contenu du textarea et collez le dans `output.json`.
 

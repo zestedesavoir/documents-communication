@@ -1,17 +1,33 @@
 ## Emoji v2 to Clemoji v3 :
 
-| Name  |  Syntaxe  | Clemoji                 | 
-| ----- | ------- | ----------------------- |
-| B     |  	:B    | ![b.svg](b.svg)         | 
-
+| Name     |  Syntaxe  | Clemoji                       | 
+| -------- | --------- | ----------------------------- | 
+| B        |    :B     | ![b.svg](b.svg)               | 
+| smile    |    :)     | ![smile.svg](smile.svg)       | 
+| hihi     |    ^^     | ![hihi.svg](hihi.svg)         | 
+| clin     |    ;)     | ![clin.svg](clin.svg)         | 
+| heureux  |    :D     | ![heureux.svg](heureux.svg)   | 
+| triste   |    :(     | ![triste.svg](triste.svg)     | 
 
 ## Origine [Twemoji](https://github.com/twitter/twemoji) :
 
-Le script de conversion des Twemoji en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/)\*. (*![1f47f.svg](1f47f.svg) et ![1f608.svg](1f608.svg) ont été finalisé à la main).
+### Réalisé manuellement
 
-| Name  | Syntaxe  | Clemoji                 | 
-| ----- | ------- | ----------------------- |
-| 1f47f | 👿 | ![1f47f.svg](1f47f.svg)* | 
+Il s'agit des Twemoji qui ont deux versions. (A-312 a réalisé manuellement la conversion des Twemoji v2).
+
+| Name  |  Syntaxe  | Clemoji                 | 
+| ----- | --- | ----------------------------- | 
+| 1f60b | 😋 | ![1f60b_v2.svg](1f60b_v2.svg) | 
+| 1f62c | 😬 | ![1f62c_v2.svg](1f62c_v2.svg) | 
+| 1f601 | 😁 | ![1f601_v2.svg](1f601_v2.svg) | 
+
+### Réalisé via le script :
+
+Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/).
+
+| Name  | Syntaxe | Clemoji (script)    | 
+| ----- | --- | ----------------------- |
+| 1f47f | 👿 | ![1f47f.svg](1f47f.svg) | 
 | 1f600 | 😀 | ![1f600.svg](1f600.svg) | 
 | 1f601 | 😁 | ![1f601.svg](1f601.svg) | 
 | 1f602 | 😂 | ![1f602.svg](1f602.svg) | 
@@ -20,7 +36,7 @@ Le script de conversion des Twemoji en Clemoji est disponible ici : [twemoji2cle
 | 1f605 | 😅 | ![1f605.svg](1f605.svg) | 
 | 1f606 | 😆 | ![1f606.svg](1f606.svg) | 
 | 1f607 | 😇 | ![1f607.svg](1f607.svg) | 
-| 1f608 | 😈 | ![1f608.svg](1f608.svg)* | 
+| 1f608 | 😈 | ![1f608.svg](1f608.svg) | 
 | 1f609 | 😉 | ![1f609.svg](1f609.svg) | 
 | 1f60a | 😊 | ![1f60a.svg](1f60a.svg) | 
 | 1f60b | 😋 | ![1f60b.svg](1f60b.svg) | 

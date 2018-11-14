@@ -192,7 +192,7 @@ $(window).on("load", function() {
 					$clemoji.find("#gfeuille path").attr("fill", "#b8b800");
 
 				//>> Hand
-				if (["1f917.svg", "1f92d.svg"].indexOf(files[num]) !== -1) { // 🤗 🤤
+				if (["1f917.svg", "1f92d.svg"].indexOf(files[num]) !== -1) { // 🤗 🤭
 					$clemoji.find("path[fill='#F4900C']").attr("fill", "#479F00");
 					$clemoji.find("path[fill='#B55005']").attr("fill", "#3E721D");
 				}

@@ -1,20 +1,32 @@
 ## Emoji v2 to Clemoji v3 :
 
-| Name     |  Syntaxe  | Clemoji                 | 
-| -------- | --------- | ----------------------- | 
-| B        |    :B     | ![b.svg](b.svg)         | 
-| smile    |    :)     | ![smile.svg](b.svg)     | 
-| hihi     |    ^^     | ![hihi.svg](b.svg)      | 
-| clin     |    ;)     | ![clin.svg](b.svg)      | 
-| heureux  |    :D     | ![heureux.svg](b.svg)   | 
-
+| Name     |  Syntaxe  | Clemoji                       | 
+| -------- | --------- | ----------------------------- | 
+| B        |    :B     | ![b.svg](b.svg)               | 
+| smile    |    :)     | ![smile.svg](smile.svg)       | 
+| hihi     |    ^^     | ![hihi.svg](hihi.svg)         | 
+| clin     |    ;)     | ![clin.svg](clin.svg)         | 
+| heureux  |    :D     | ![heureux.svg](heureux.svg)   | 
+| triste   |    :(     | ![triste.svg](triste.svg)     | 
 
 ## Origine [Twemoji](https://github.com/twitter/twemoji) :
 
-Le script de conversion des Twemoji en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/).
+### Réalisé manuellement
 
-| Name  | Syntaxe | Clemoji            | 
-| ----- | --- | ---------------------- |
+Il s'agit des Twemoji qui ont deux versions. (A-312 a réalisé manuellement la conversion des Twemoji v2).
+
+| Name  |  Syntaxe  | Clemoji                 | 
+| ----- | --- | ----------------------------- | 
+| 1f60b | 😋 | ![1f60b_v2.svg](1f60b_v2.svg) | 
+| 1f62c | 😬 | ![1f62c_v2.svg](1f62c_v2.svg) | 
+| 1f601 | 😁 | ![1f601_v2.svg](1f601_v2.svg) | 
+
+### Réalisé via le script :
+
+Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/).
+
+| Name  | Syntaxe | Clemoji (script)    | 
+| ----- | --- | ----------------------- |
 | 1f47f | 👿 | ![1f47f.svg](1f47f.svg) | 
 | 1f600 | 😀 | ![1f600.svg](1f600.svg) | 
 | 1f601 | 😁 | ![1f601.svg](1f601.svg) | 

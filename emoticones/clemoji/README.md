@@ -8,13 +8,16 @@
 | clin     |    ;)     | ![clin.svg](clin.svg)         | 
 | heureux  |    :D     | ![heureux.svg](heureux.svg)   | 
 
-
 ## Origine [Twemoji](https://github.com/twitter/twemoji) :
+
+| Name  |  Syntaxe  | Clemoji (à la main)  | 
+| ----- | --- | -------------------------- | 
+| 1f60b | 😋 | ![yum.svg](yum.svg)        | 
 
 Le script de conversion des Twemoji en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/).
 
-| Name  | Syntaxe | Clemoji            | 
-| ----- | --- | ---------------------- |
+| Name  | Syntaxe | Clemoji (script)    | 
+| ----- | --- | ----------------------- |
 | 1f47f | 👿 | ![1f47f.svg](1f47f.svg) | 
 | 1f600 | 😀 | ![1f600.svg](1f600.svg) | 
 | 1f601 | 😁 | ![1f601.svg](1f601.svg) | 

@@ -11,13 +11,19 @@
 
 ## Origine [Twemoji](https://github.com/twitter/twemoji) :
 
-| Name  |  Syntaxe  | Clemoji (à la main)     | 
-| ----- | --- | ----------------------------- | 
-| 1f60b | 😋 | ![yum.svg](yum.svg)           | 
-| 1f601 | 😁 | ![souriant.svg](souriant.svg) | 
-| 1f62c | 😬 | ![grimace.svg](grimace.svg)   | 
+### Réalisé manuellement
 
-Le script de conversion des Twemoji en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/).
+Il s'agit des Twemoji qui ont deux versions. (A-312 a réalisé manuellement la conversion des Twemoji v2).
+
+| Name  |  Syntaxe  | Clemoji                 | 
+| ----- | --- | ----------------------------- | 
+| 1f60b | 😋 | ![1f60b_v2.svg](1f60b_v2.svg) | 
+| 1f62c | 😬 | ![1f62c_v2.svg](1f62c_v2.svg) | 
+| 1f601 | 😁 | ![1f601_v2.svg](1f601_v2.svg) | 
+
+### Réalisé via le script :
+
+Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/).
 
 | Name  | Syntaxe | Clemoji (script)    | 
 | ----- | --- | ----------------------- |

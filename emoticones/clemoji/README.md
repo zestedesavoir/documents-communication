@@ -10,9 +10,11 @@
 
 ## Origine [Twemoji](https://github.com/twitter/twemoji) :
 
-| Name  |  Syntaxe  | Clemoji (à la main)  | 
-| ----- | --- | -------------------------- | 
-| 1f60b | 😋 | ![yum.svg](yum.svg)        | 
+| Name  |  Syntaxe  | Clemoji (à la main)     | 
+| ----- | --- | ----------------------------- | 
+| 1f60b | 😋 | ![yum.svg](yum.svg)           | 
+| 1f601 | 😁 | ![souriant.svg](souriant.svg) | 
+| 1f62c | 😬 | ![grimace.svg](grimace.svg)   | 
 
 Le script de conversion des Twemoji en Clemoji est disponible ici : [twemoji2clemoji](twemoji2clemoji/).
 

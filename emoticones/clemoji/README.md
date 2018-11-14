@@ -1,12 +1,12 @@
 ## Emoji v2 to Clemoji v3 :
 
-| Name     |  Syntaxe  | Clemoji                 | 
-| -------- | --------- | ----------------------- | 
-| B        |    :B     | ![b.svg](b.svg)         | 
-| smile    |    :)     | ![smile.svg](b.svg)     | 
-| hihi     |    ^^     | ![hihi.svg](b.svg)      | 
-| clin     |    ;)     | ![clin.svg](b.svg)      | 
-| heureux  |    :D     | ![heureux.svg](b.svg)   | 
+| Name     |  Syntaxe  | Clemoji                       | 
+| -------- | --------- | ----------------------------- | 
+| B        |    :B     | ![b.svg](b.svg)               | 
+| smile    |    :)     | ![smile.svg](smile.svg)       | 
+| hihi     |    ^^     | ![hihi.svg](hihi.svg)         | 
+| clin     |    ;)     | ![clin.svg](clin.svg)         | 
+| heureux  |    :D     | ![heureux.svg](heureux.svg)   | 
 
 
 ## Origine [Twemoji](https://github.com/twitter/twemoji) :

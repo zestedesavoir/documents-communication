@@ -1,0 +1,18 @@
+{
+  "name": "twemoji2clemoji",
+  "version": "1.0.0",
+  "description": "L'application créé les fichier .svg des emojis présents dans output.json",
+  "main": "build-clemoji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zestedesavoir/documents-communication/tree/master/emoticones/clemoji/twemoji2clemoji"
+  },
+  "author": "A-312",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "pretty": "^2.0.0"
+  }
+}

@@ -7,6 +7,7 @@
 | hihi     |    ^^     | ![hihi.svg](hihi.svg)         | 
 | clin     |    ;)     | ![clin.svg](clin.svg)         | 
 | heureux  |    :D     | ![heureux.svg](heureux.svg)   | 
+| triste   |    :(     | ![triste.svg](triste.svg)     | 
 
 ## Origine [Twemoji](https://github.com/twitter/twemoji) :
 

@@ -8,6 +8,15 @@
 | clin     |    ;)     | ![clin.svg](clin.svg)         | 
 | heureux  |    :D     | ![heureux.svg](heureux.svg)   | 
 | triste   |    :(     | ![triste.svg](triste.svg)     | 
+| pinch    |    X/     | ![pinch.svg](pinch.svg)       | 
+| ange     |  :ange:   | ![ange.svg](ange.svg)         | 
+| diable   | :diable:  | ![diable.svg](diable.svg)     | 
+| magicien | :magicien:| ![magicien.svg](magicien.svg) | 
+
+| Name     |  Syntaxe  | Clemoji animé avec JS         | 
+| -------- | --------- | ----------------------------- | 
+| angry    | :colere:  | ![angry.svg](angry.svg)       | 
+| blink    |   o_O     | ![blink.svg](blink.svg)       |
 
 ## Origine [Twemoji](https://github.com/twitter/twemoji) :
 

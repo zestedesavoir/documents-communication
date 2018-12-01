@@ -1,3 +1,5 @@
+# PNG (Ancien) :
+
 Syntaxe zMd  | Classique                                                                                         | Basse résolution                             | Haute résolution
 -------------|---------------------------------------------------------------------------------------------------|----------------------------------------------|-----------------
 `:)`         | ![smile classic](https://raw.githubusercontent.com/zestedesavoir/zds-site/dev/assets/smileys/smile.png)     | ![smile low res](low_res/smile_LD.png)       | ![high res smile](high_res/smile_HD.png)

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Clemoji 3.0: ange.svg (ange) - licence GPLv3 or later - Author Buddy - https://zestedesavoir.com/ -->
+<!-- Clemoji 3.0: angry.svg (:colere:) - licence GPLv3 or later - Author Buddy - https://zestedesavoir.com/ -->
 <svg version="1.1" id="clemoji3_angry" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="27.834px" viewBox="0 0 19 27.834" enable-background="new 0 0 19 27.834" xml:space="preserve">
 <g id="step3" transform="translate(-1152.7158,-245.51251)" visibility="hidden">
   <animate attributeName="visibility" from="hidden" to="hidden" dur="210ms" begin="0ms" values="visible;hidden;hidden" keyTimes="0;0.5;1" repeatCount="indefinite" />

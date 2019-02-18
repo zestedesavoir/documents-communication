@@ -63,7 +63,7 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f602   | :mortderire:   | ![1f602.svg](svg/1f602.svg) | 
 | 1f603   | :daccord:      | ![1f603.svg](svg/1f603.svg) | 
 | 1f604   | :eneffet:      | ![1f604.svg](svg/1f604.svg) | 
-| 1f605   | :eneffet_gené: | ![1f605.svg](svg/1f605.svg) | 
+| 1f605   | :eneffetgené:  | ![1f605.svg](svg/1f605.svg) | 
 | 1f606   | x)             | ![1f606.svg](svg/1f606.svg) | 
 | 1f607   | `:innocent:`   | ![1f607.svg](svg/1f607.svg) | 
 | 1f608   | :demonjoyeux:  | ![1f608.svg](svg/1f608.svg) | 
@@ -71,7 +71,7 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f60a   | :rejouis:      | ![1f60a.svg](svg/1f60a.svg) | 
 | 1f60b   | `:yum:`        | ![1f60b.svg](svg/1f60b.svg) | 
 | 1f60c   | :soulagé:      | ![1f60c.svg](svg/1f60c.svg) | 
-| 1f60d   | :regardcoeur:  | ![1f60d.svg](svg/1f60d.svg) | 
+| 1f60d   | <3             | ![1f60d.svg](svg/1f60d.svg) | 
 | 1f60e   | :confiant:     | ![1f60e.svg](svg/1f60e.svg) | 
 | 1f60f   | :malicieux:    | ![1f60f.svg](svg/1f60f.svg) | 
 | 1f610   | :indifférent:  | ![1f610.svg](svg/1f610.svg) | 
@@ -96,11 +96,11 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f623   | x(             | ![1f623.svg](svg/1f623.svg) | 
 | 1f624   | :réussite:     | ![1f624.svg](svg/1f624.svg) | 
 | 1f625   | :deçularme:    | ![1f625.svg](svg/1f625.svg) | 
-| 1f626   | :deçu:         | ![1f626.svg](svg/1f626.svg) | 
-| 1f627   | :deçu_triste:  | ![1f627.svg](svg/1f627.svg) | 
-| 1f628   | :deçu_angoissé:| ![1f628.svg](svg/1f628.svg) | 
+| 1f626   | :déçu:         | ![1f626.svg](svg/1f626.svg) | 
+| 1f627   | :déçutriste:   | ![1f627.svg](svg/1f627.svg) | 
+| 1f628   | :déçuangoissé: | ![1f628.svg](svg/1f628.svg) | 
 | 1f629   | :éreinté:      | ![1f629.svg](svg/1f629.svg) | 
-| 1f62a   | :somnolence:   | ![1f62a.svg](svg/1f62a.svg) | 
+| 1f62a   | :somnole:      | ![1f62a.svg](svg/1f62a.svg) | 
 | 1f62b   | :fatigué:      | ![1f62b.svg](svg/1f62b.svg) | 
 | 1f62c   | :grimace:      | ![1f62c.svg](svg/1f62c.svg) | 
 | 1f62d   | :pleure:       | ![1f62d.svg](svg/1f62d.svg) | 
@@ -126,14 +126,14 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f915   | :blessé:       | ![1f915.svg](svg/1f915.svg) | 
 | 1f917   | :bienveillant: | ![1f917.svg](svg/1f917.svg) | 
 | 1f922   | :nausée:       | ![1f922.svg](svg/1f922.svg) | 
-| 1f923   | :plierderire:  | ![1f923.svg](svg/1f923.svg) | 
+| 1f923   | :pliéderire:   | ![1f923.svg](svg/1f923.svg) | 
 | 1f924   | :baver:        | ![1f924.svg](svg/1f924.svg) | 
 | 1f925   | :pinocchio:    | ![1f925.svg](svg/1f925.svg) | 
 | 1f927   | :eternuer:     | ![1f927.svg](svg/1f927.svg) | 
 | 1f928   | :quésaco:      | ![1f928.svg](svg/1f928.svg) | 
 | 1f929   | :regardfan:    | ![1f929.svg](svg/1f929.svg) | 
 | 1f92a   | :hébété:       | ![1f92a.svg](svg/1f92a.svg) | 
-| 1f92b   | :chutttttt:    | ![1f92b.svg](svg/1f92b.svg) | 
+| 1f92b   | :chut:         | ![1f92b.svg](svg/1f92b.svg) | 
 | 1f92c   | :fureur:       | ![1f92c.svg](svg/1f92c.svg) | 
 | 1f92d   | :bailler:      | ![1f92d.svg](svg/1f92d.svg) | 
 | 1f92e   | :vomir:        | ![1f92e.svg](svg/1f92e.svg) | 

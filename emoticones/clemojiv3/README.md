@@ -117,7 +117,7 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f641   | :nonsatisfait: | ![1f641.svg](svg/1f641.svg) | 
 | 1f642   | :satisfait:    | ![1f642.svg](svg/1f642.svg) | 
 | 1f643   | :inversé:      | ![1f643.svg](svg/1f643.svg) | 
-| 1f644   | :regarderciel: | ![1f644.svg](svg/1f644.svg) | 
+| 1f644   | :regardauciel: | ![1f644.svg](svg/1f644.svg) | 
 | 1f910   | :bouchezipper: | ![1f910.svg](svg/1f910.svg) | 
 | 1f911   | :appâtdugain:  | ![1f911.svg](svg/1f911.svg) | 
 | 1f912   | :thermomètre:  | ![1f912.svg](svg/1f912.svg) | 
@@ -145,4 +145,4 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f976   | :avoirfroid:   | ![1f976.svg](svg/1f976.svg) | 
 | 1f97a   | :désolé:       | ![1f97a.svg](svg/1f97a.svg) | 
 | 2639    | :triste:       |  ![2639.svg](svg/2639.svg)  | 
-| 263a    | :sourirerougi: |  ![263a.svg](svg/263a.svg)  | 
+| 263a    | :rougir:       |  ![263a.svg](svg/263a.svg)  | 

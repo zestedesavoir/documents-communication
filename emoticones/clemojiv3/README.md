@@ -57,7 +57,7 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 
 | Name    |  Syntaxe       | Clemoji (script)            | 
 | ------- | -------------- | --------------------------- | 
-| 1f47f   | :demon:        | ![1f47f.svg](svg/1f47f.svg) | 
+| 1f47f   | :démon:        | ![1f47f.svg](svg/1f47f.svg) | 
 | 1f600   | :content:      | ![1f600.svg](svg/1f600.svg) | 
 | 1f601   | :joyeux:       | ![1f601.svg](svg/1f601.svg) | 
 | 1f602   | :mortderire:   | ![1f602.svg](svg/1f602.svg) | 
@@ -66,7 +66,7 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f605   | :eneffetgené:  | ![1f605.svg](svg/1f605.svg) | 
 | 1f606   | x)             | ![1f606.svg](svg/1f606.svg) | 
 | 1f607   | `:innocent:`   | ![1f607.svg](svg/1f607.svg) | 
-| 1f608   | :demonjoyeux:  | ![1f608.svg](svg/1f608.svg) | 
+| 1f608   | :démonjoyeux:  | ![1f608.svg](svg/1f608.svg) | 
 | 1f609   | :clindoeil:    | ![1f609.svg](svg/1f609.svg) | 
 | 1f60a   | :rejouis:      | ![1f60a.svg](svg/1f60a.svg) | 
 | 1f60b   | `:yum:`        | ![1f60b.svg](svg/1f60b.svg) | 
@@ -94,7 +94,7 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f621   | :fâchérouge:   | ![1f621.svg](svg/1f621.svg) | 
 | 1f622   | :tristelarme:  | ![1f622.svg](svg/1f622.svg) | 
 | 1f623   | x(             | ![1f623.svg](svg/1f623.svg) | 
-| 1f624   | :réussite:     | ![1f624.svg](svg/1f624.svg) | 
+| 1f624   | :fulminant:    | ![1f624.svg](svg/1f624.svg) | 
 | 1f625   | :deçularme:    | ![1f625.svg](svg/1f625.svg) | 
 | 1f626   | :déçu:         | ![1f626.svg](svg/1f626.svg) | 
 | 1f627   | :déçutriste:   | ![1f627.svg](svg/1f627.svg) | 

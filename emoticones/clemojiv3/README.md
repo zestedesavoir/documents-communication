@@ -40,7 +40,7 @@ Il s'agit des Twemoji qui ont deux versions. (A-312 a réalisé manuellement la 
 
 | Name  |  Syntaxe  | Clemoji                           | 
 | ----- | --------- | --------------------------------- | 
-| 1f47f | :démon:   | ![1f47f.svg](svg/1f47f_v2.svg) |
+| 1f47f | :démon:   | ![1f47f.svg](svg/1f47f.svg)       |
 | 1f601 | :joyeux:  | ![1f601_v2.svg](svg/1f601_v2.svg) |  
 | 1f60b | `:yum:`   | ![1f60b_v2.svg](svg/1f60b_v2.svg) | 
 | 1f62c | :grimace: | ![1f62c_v2.svg](svg/1f62c_v2.svg) | 

@@ -50,7 +50,7 @@ Document                         | Auteur | Source | Licence* | Utilisé sur
 
 Document                  | Auteur  | Source | Licence*
 --------------------------|---------|--------|---------
-[Émoticônes](emoticones/) | [Buddy](https://zestedesavoir.com/membres/voir/Buddy/) | [ici](https://zestedesavoir.com/forums/sujet/538/clem-sur-le-devant-de-la-scene/?page=15#p105025) |
+[Clemoji v2](emoticones/clemojiv2) | [Buddy](https://zestedesavoir.com/membres/voir/Buddy/) | [ici](https://zestedesavoir.com/forums/sujet/538/clem-sur-le-devant-de-la-scene/?page=15#p105025) | GPLv3 (composant de [zds-site](https://github.com/zestedesavoir/zds-site))
 
 # Textes
 

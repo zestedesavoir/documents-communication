@@ -88,7 +88,7 @@ Le script de conversion des Twemoji v1 en Clemoji est disponible ici : [twemoji2
 | 1f61b   | :-P            | ![1f61b.svg](svg/1f61b.svg) | 
 | 1f61c   | ;-P            | ![1f61c.svg](svg/1f61c.svg) | 
 | 1f61d   | x-P            | ![1f61d.svg](svg/1f61d.svg) | 
-| 1f61e   | :déçu:         | ![1f61e.svg](svg/1f61e.svg) | 
+| 1f61e   | :déçuinquiet:  | ![1f61e.svg](svg/1f61e.svg) | 
 | 1f61f   | :inquiet:      | ![1f61f.svg](svg/1f61f.svg) | 
 | 1f620   | :fâché:        | ![1f620.svg](svg/1f620.svg) | 
 | 1f621   | :fâchérouge:   | ![1f621.svg](svg/1f621.svg) | 
